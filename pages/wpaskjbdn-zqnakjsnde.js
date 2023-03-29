@@ -1,12 +1,11 @@
 import Head from 'next/head';
-import Link from 'next/link';
-import Layout from '../../components/layout';
+import Layout from '../components/layout';
 
 export default function FirstPost() {
   return (
     <Layout>
       <Head>
-        <title>First Post</title>
+        <title>wpaskjbdn zqnakjsnde</title>
         <meta name="description" content="wpaskjbdn zqnakjsnde"/>
         <meta name="robots" content="follow, index" />
       </Head>

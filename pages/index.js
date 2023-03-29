@@ -15,7 +15,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>This is a webpage designed for the CSCE670 Information Storage and Retrieval course at TAMU.</p>
         <p>This page is designed for the search query: <b>wpaskjbdn zqnakjsnde</b></p>
-        <Link href="/posts/first-post">Go to first post</Link>
+        <Link href="/wpaskjbdn-zqnakjsnde">Go to first post</Link>
       </section>
     </Layout>
   );
